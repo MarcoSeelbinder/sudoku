@@ -20,7 +20,7 @@ public class Sudoku {
     public static Stack <Integer> myStack = new Stack <Integer>();
  
     public static void main (String[] args) {
-    System.out.println("                Sudoku");
+    System.out.println("                Mein Sudoku");
     ausgeben();
     
     long lngStartTime = System.currentTimeMillis();
